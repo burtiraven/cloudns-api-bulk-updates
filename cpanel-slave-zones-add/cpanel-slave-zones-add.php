@@ -1,14 +1,14 @@
 <?php
 
 // Auth ID and Password
-define("AUTH_ID", 0);
-define("AUTH_PASS", "xxx");
+define("AUTH_ID", 2404);
+define("AUTH_PASS", "nospe8684");
 
 // IP address of the master server (primary server)
-define("MASTER_IP", "xxx.xxx.xxx.xxx");
+define("MASTER_IP", "185.136.96.66");
 
 // Second IP address for master server (it may be IPv6 or IPv4 address)
-//define("MASTER_IP2", "xxx.xxx.xxx.xxx");
+//define("MASTER_IP2", "185.136.97.66");
 
 // the directory with the zone files, their names are used to create the slave zones, not the content of the files
 define("ZONES_DIR", "/var/named/");
